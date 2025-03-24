@@ -1,0 +1,6 @@
+Prepare：
+pip install pandas scikit-learn xgboost streamlit matplotlib seaborn joblib
+run:
+python diabetes_detection.py
+UI:
+streamlit run diabetes_detection.py
